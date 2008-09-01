@@ -1,0 +1,3 @@
+class SpecializedPuzzle extends Puzzle {
+	Integer someProperty
+}
