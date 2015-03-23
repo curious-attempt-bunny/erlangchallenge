@@ -1,0 +1,1 @@
+Grails app for the Erlang Challenge website
